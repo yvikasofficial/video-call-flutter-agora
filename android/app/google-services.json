@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "471298639815",
+    "firebase_url": "https://video-call-demo-cdc4b.firebaseio.com",
+    "project_id": "video-call-demo-cdc4b",
+    "storage_bucket": "video-call-demo-cdc4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471298639815:android:8d2bf86c510fe9301a7be2",
+        "android_client_info": {
+          "package_name": "com.vikas.myvideocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471298639815-tvlfh7evuqkob4j6rliitm3d6h1jh6g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vikas.myvideocall",
+            "certificate_hash": "328353b7b0d1d50fae0260e6b2e17bff9b805e50"
+          }
+        },
+        {
+          "client_id": "471298639815-s7ka53js1q0reet9keo71lae5mu0ro99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbD1JBAuToKs3yJmxiawj_8rswMLuHIVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471298639815-s7ka53js1q0reet9keo71lae5mu0ro99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

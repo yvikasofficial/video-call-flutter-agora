@@ -21,6 +21,13 @@ dependencies:
   cupertino_icons: ^0.1.2
   agora_rtc_engine: ^3.0.1-dev.7
   permission_handler: ^3.0.0
+  firebase_core: ^0.4.5
+  firebase_auth: ^0.16.1
+  cloud_firestore: ^0.13.6
+  firebase_messaging: 6.0.16
+  loading_overlay: ^0.2.1
+  flutter_spinkit: "^4.1.2"
+  uuid: ^2.2.2
 
 dev_dependencies:
   flutter_test:
@@ -36,8 +43,8 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #  - images/a_dot_burr.jpeg
+  assets:
+    - images/
   #  - images/a_dot_ham.jpeg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.

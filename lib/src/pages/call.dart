@@ -10,12 +10,12 @@ import '../utils/settings.dart';
 class CallPage extends StatefulWidget {
   /// non-modifiable channel name of the page
   final String channelName;
-
-  /// non-modifiable client role of the page
   final ClientRole role;
 
+  /// non-modifiable client role of the page
+
   /// Creates a call page with given channel name.
-  const CallPage({Key key, this.channelName, this.role}) : super(key: key);
+  const CallPage({Key key, this.role, this.channelName}) : super(key: key);
 
   @override
   _CallPageState createState() => _CallPageState();
